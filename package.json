@@ -1,0 +1,25 @@
+{
+  "name": "@bz/mongoose-plugin-counter",
+  "version": "0.1.0",
+  "description": "mongoose 自增 id 插件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BozhongFE/mongoose-plugin-counter.git"
+  },
+  "keywords": [
+    "mongoose"
+  ],
+  "author": "unclay <wcl58981298@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BozhongFE/mongoose-plugin-counter/issues"
+  },
+  "homepage": "https://github.com/BozhongFE/mongoose-plugin-counter#readme",
+  "dependencies": {
+    "mongoose": "^5.10.9"
+  }
+}
